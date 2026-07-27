@@ -1,39 +1,91 @@
-# 🖐️ Hi, I'm M\Gubran Alamri
+👨‍💻 Gubran Alamri
 
-### 👨‍💻 About Me
-- 🔭 **Focus:** Software Development, System Architecture & GUI Applications.
-- 🌱 **Learning:** Expanding skills in low-level concepts, data structures, and dynamic web interfaces.
-- 💡 **Passionate about:** Clean code, performance optimization, and building practical desktop & web tools.
+Software Engineering Student | C++ Developer | Qt Desktop Applications | Database Designer
 
 ---
 
-### 🛠️ Languages & Technologies
+🚀 About Me
 
-#### Languages & Core Frameworks
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I am a Software Engineering student passionate about software architecture, desktop application development, database design, and problem solving.
 
-#### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+My interests include:
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-GubranAlamri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-GubranAlamri&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-GubranAlamri&theme=tokyonight&hide_border=true" width="98%" />
-</p>
+- C++ Programming
+- Qt Framework
+- Database Systems
+- Software Design & Architecture
+- Web Development
+- Algorithms & Data Structures
 
 ---
 
-### 📬 Connect with Me
+🛠️ Technologies & Tools
 
-[![GitHub](https://img.shields.io/badge/GitHub-M--GubranAlamri-181717?style=for-the-badge&logo=github)](https://github.com/M-GubranAlamri)
+Programming Languages
+
+- C++
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+Frameworks & Libraries
+
+- Qt Framework
+- Bootstrap
+
+Databases
+
+- MySQL
+- SQL Server
+
+Development Tools
+
+- Git
+- GitHub
+- Visual Studio
+- Qt Creator
+
+---
+
+📚 Currently Learning
+
+- Advanced Database Design
+- Software Engineering Principles
+- System Analysis & Design
+- Performance Optimization
+
+---
+
+💡 Featured Projects
+
+Grocery Store Management System
+
+Desktop application for inventory, customers, suppliers, and invoices management using C++.
+
+Trademark Management Database
+
+Database system designed using ERD, Normalization, and SQL.
+
+Student Management System
+
+Application for managing students, courses, and academic records.
+
+---
+
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+📫 Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: your-email@example.com
+
+---
+
+⭐ Always learning, always building.
