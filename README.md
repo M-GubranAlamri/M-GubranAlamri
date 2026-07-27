@@ -1,91 +1,91 @@
-👨‍💻 Gubran Alamri
+<!-- HEADER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:38BDF8&text=Gubran%20Alamri&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+</p><h1 align="center">⚡ Software Engineer & C++ Developer ⚡</h1><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;C%2B%2B+Developer;Qt+Desktop+Applications;Database+Designer;Problem+Solver;Building+Reliable+Systems" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6" />
+</p>---
 
-Software Engineering Student | C++ Developer | Qt Desktop Applications | Database Designer
+👨‍💻 About Me
 
----
+class GubranAlamri
+{
+public:
 
-🚀 About Me
+    string role = "Software Engineer";
 
-I am a Software Engineering student passionate about software architecture, desktop application development, database design, and problem solving.
+    vector<string> languages =
+    {
+        "C++",
+        "JavaScript",
+        "SQL"
+    };
 
-My interests include:
+    vector<string> technologies =
+    {
+        "Qt",
+        "MySQL",
+        "Git",
+        "HTML",
+        "CSS"
+    };
 
-- C++ Programming
-- Qt Framework
-- Database Systems
-- Software Design & Architecture
-- Web Development
-- Algorithms & Data Structures
-
----
-
-🛠️ Technologies & Tools
-
-Programming Languages
-
-- C++
-- JavaScript
-- HTML5
-- CSS3
-- SQL
-
-Frameworks & Libraries
-
-- Qt Framework
-- Bootstrap
-
-Databases
-
-- MySQL
-- SQL Server
-
-Development Tools
-
-- Git
-- GitHub
-- Visual Studio
-- Qt Creator
+    string focus =
+    "Desktop Applications & System Design";
+};
 
 ---
 
-📚 Currently Learning
+🚀 Tech Stack
 
-- Advanced Database Design
-- Software Engineering Principles
-- System Analysis & Design
-- Performance Optimization
-
----
-
-💡 Featured Projects
-
-Grocery Store Management System
-
-Desktop application for inventory, customers, suppliers, and invoices management using C++.
-
-Trademark Management Database
-
-Database system designed using ERD, Normalization, and SQL.
-
-Student Management System
-
-Application for managing students, courses, and academic records.
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,mysql,git,github,vscode" />
+</p>---
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>---
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>---
+
+🏆 Featured Projects
+
+🛒 Grocery Store Management System
+
+Inventory • Customers • Suppliers • Invoices
+
+🏷️ Trademark Management System
+
+ERD • SQL • Database Design
+
+🎓 Student Management System
+
+Desktop Application using C++
 
 ---
 
-📫 Contact
+🎯 Current Goals
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+- Master Qt Framework
+- Advanced Database Design
+- Software Architecture
+- Design High Performance Systems
+- Open Source Contributions
 
 ---
 
-⭐ Always learning, always building.
+🌐 Connect With Me
+
+<p align="center"><a href="https://github.com/YOUR_USERNAME">
+GitHub
+</a></p>---
+
+<p align="center">⭐ Building software one line at a time.
+
+</p>
