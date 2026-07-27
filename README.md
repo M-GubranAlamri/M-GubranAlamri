@@ -36,31 +36,31 @@ public:
 
 ---
 
-🚀 Tech Stack
+■ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mysql,git,github,vscode" />
 </p>---
 
-📊 GitHub Statistics
+◆ GitHub Statistics
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>---
 
-🔥 Contribution Streak
+■ Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>---
 
-🏆 Featured Projects
+▼Featured Projects
 
-🛒 Grocery Store Management System
+▼Grocery Store Management System
 
 Inventory • Customers • Suppliers • Invoices
 
-🏷️ Trademark Management System
+●Trademark Management System
 
 ERD • SQL • Database Design
 
@@ -70,7 +70,7 @@ Desktop Application using C++
 
 ---
 
-🎯 Current Goals
+▮▯▮ Current Goals
 
 - Master Qt Framework
 - Advanced Database Design
@@ -80,12 +80,12 @@ Desktop Application using C++
 
 ---
 
-🌐 Connect With Me
+◉ Connect With Me
 
 <p align="center"><a href="https://github.com/YOUR_USERNAME">
 GitHub
 </a></p>---
 
-<p align="center">⭐ Building software one line at a time.
+<p align="center">▷ Building software one line at a time.
 
 </p>
